@@ -38,9 +38,7 @@ I’m a Software Developer focused on backend systems, automation, and integrati
 - DigiMarket — Digital marketing agency platform with a Flask backend, client portal, CMS, and basic analytics (ongoing).  
   Repo: https://github.com/abubackersiddiqm/digimarket
 
-- Project: small utilities & examples — A collection of lightweight utilities, automation examples, and Windows service wrappers (placeholders for your smaller repositories).
-
-(If you want me to link the exact URLs for your other projects, paste them and I’ll replace the placeholders with real repo links and short descriptions.)
+- Project: small utilities & examples — A collection of lightweight utilities, automation examples, and Windows service wrappers.
 
 ---
 
