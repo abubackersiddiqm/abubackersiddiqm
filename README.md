@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋 I'm Abubacker
 
-<!--
-**abubackersiddiqm/abubackersiddiqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Flask | Automation | AI Integration  
+Building real-world systems and tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Abubacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubackersiddiqm&show_icons=true&theme=default)](https://github.com/abubackersiddiqm)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubackersiddiqm&layout=compact&theme=default)](https://github.com/abubackersiddiqm)
+
+---
+
+## 🚀 About Me
+I’m a Software Developer focused on backend systems, automation, and integrating AI into practical applications. I enjoy designing reliable APIs, building Windows automation tools, and shipping production-ready services.
+
+- 🔭 Currently working on: **DigiMarket** — digital marketing agency site (ongoing)  
+- 🌱 Interests: backend architecture, automation, AI integration  
+- 💬 Ask me about: Flask, Python automation, building Windows background services  
+- ⚡ Fun fact: Coding is my only hobby
+
+---
+
+## 🛠️ Core Skills
+- Languages & Runtime: Python  
+- Backend & APIs: Flask, REST API design  
+- Desktop & Windows: Tkinter, WinForms, Windows Service development  
+- Topics: automation, AI integration, production deployments
+
+---
+
+## ⭐ Featured Project
+- Unified Communication Protocol — A reference implementation of a scalable unified messaging protocol and system for routing, persistence, and multi-adapter delivery (WebSocket, MQTT, HTTP). Designed as modular Python services to enable cross-device and cross-service communication.
+
+---
+
+## Other Projects
+- DigiMarket — Digital marketing agency platform with a Flask backend, client portal, CMS, and basic analytics (ongoing).  
+  Repo: https://github.com/abubackersiddiqm/digimarket
+
+- Project: small utilities & examples — A collection of lightweight utilities, automation examples, and Windows service wrappers (placeholders for your smaller repositories).
+
+(If you want me to link the exact URLs for your other projects, paste them and I’ll replace the placeholders with real repo links and short descriptions.)
+
+---
+
+## 🔭 What I’m Building / Current Work
+- DigiMarket — status: ongoing — A digital marketing agency platform with client management, content publishing, and basic analytics. Backend implemented with Flask and REST APIs.
+
+---
+
+## 🤝 Availability
+- Open to work — available for backend roles, contract work, and collaboration on automation / AI integration projects.
+
+---
+
+## 📫 Contact
+- Email: abubackersiddiq526@gmail.com
+
+---
+
+## 🌍 Time Zone
+- Chennai (UTC+05:30)
+
+---
+
+## 📦 How to Work With Me
+- Preferred collaboration: well-scoped issues + PRs, async communication, and scheduled syncs when needed.  
+- Best way to reach me: email (listed above).
