@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Abubacker
 
-Backend Developer | Flask | Automation | AI Integration  
-Building real-world systems and tools.
+Backend Developer building secure automation and real-world systems using Python and Flask.
 
 ---
 
@@ -25,6 +24,8 @@ I’m a Software Developer focused on backend systems, automation, and integrati
 - Backend & APIs: Flask, REST API design  
 - Desktop & Windows: Tkinter, WinForms, Windows Service development  
 - Topics: automation, AI integration, production deployments
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, Linux, REST APIs
 
 ---
 
